@@ -30,7 +30,7 @@ This project implements a digital clock that shows:
 
 ## Demo
 You can see how the Digital Clock works below:
-[Live Demo](https://Sandhiya1401.github.io/Digital-Clock/)
+[Live Demo](https://sandhiya1401.github.io/Digital-Clock-Proj/)
 
 ![Video Demo](img/DEMO.mp4)
 
