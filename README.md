@@ -29,9 +29,10 @@ This project implements a digital clock that shows:
 - **Responsive Design:** Adjusts for smaller screens and mobile devices.  
 
 ## Demo
-You can see how the To-Do List works below:
+You can see how the Digital Clock works below:
+[Live Demo](https://Sandhiya1401.github.io/Digital-Clock/)
 
-![Demo](img/DEMO.mp4)
+![Video Demo](img/DEMO.mp4)
 
 Or check out screenshots:
 
